@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  background: #292929;
+}
+
+.container {
+  max-width: 1024px;
+  justify-content: space-evenly !important;
+  margin: 0 auto;
+}
